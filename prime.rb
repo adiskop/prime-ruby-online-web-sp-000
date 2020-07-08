@@ -8,5 +8,4 @@ def prime?(num)
   end
 end
 
-puts prime?(105557)
-© 2020 GitHub, Inc.
+
